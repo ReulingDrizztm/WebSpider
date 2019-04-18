@@ -50,3 +50,7 @@ def get_proxy():
     except ConnectionError:
         return None
 ```
+
+
+### 说明
+本项目是 clone 崔庆才的项目，但是催大佬的项目在我自己的电脑上跑不起来，然后我对其中的内容做了修改，以便可以在自己的电脑上跑起来
